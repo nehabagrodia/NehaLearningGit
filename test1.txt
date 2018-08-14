@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is F6A1-60DB
+
+ Directory of C:\Users\jitendra\Desktop\Gitproject
+
+13-08-2018  16:43    <DIR>          .
+13-08-2018  16:43    <DIR>          ..
+13-08-2018  16:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  353,490,018,304 bytes free
